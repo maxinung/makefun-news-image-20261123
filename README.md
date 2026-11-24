@@ -1,8 +1,8 @@
 # The World Today — 23 November 2026
 
-[![News date](https://img.shields.io/badge/news-23%20Nov%202026-blue)](https://make.fun)
-[![Stories](https://img.shields.io/badge/stories-31-green)](https://make.fun)
-[![Runtime](https://img.shields.io/badge/node-22-brightgreen)](https://nodejs.org)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/maxinung/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/maxinung/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A single dense newspaper page that sums up Monday 23 November 2026 in one
 image: 31 verified stories from 7 regions — climate, the Middle East, Europe,
